@@ -1,0 +1,8 @@
+C:\Users\divak\source\repos\FileOperations\FileOperation.Core\bin\Debug\netcoreapp3.0\FileOperation.Core.deps.json
+C:\Users\divak\source\repos\FileOperations\FileOperation.Core\bin\Debug\netcoreapp3.0\FileOperation.Core.dll
+C:\Users\divak\source\repos\FileOperations\FileOperation.Core\bin\Debug\netcoreapp3.0\FileOperation.Core.pdb
+C:\Users\divak\source\repos\FileOperations\FileOperation.Core\obj\Debug\netcoreapp3.0\FileOperation.Core.csprojAssemblyReference.cache
+C:\Users\divak\source\repos\FileOperations\FileOperation.Core\obj\Debug\netcoreapp3.0\FileOperation.Core.AssemblyInfoInputs.cache
+C:\Users\divak\source\repos\FileOperations\FileOperation.Core\obj\Debug\netcoreapp3.0\FileOperation.Core.AssemblyInfo.cs
+C:\Users\divak\source\repos\FileOperations\FileOperation.Core\obj\Debug\netcoreapp3.0\FileOperation.Core.dll
+C:\Users\divak\source\repos\FileOperations\FileOperation.Core\obj\Debug\netcoreapp3.0\FileOperation.Core.pdb
