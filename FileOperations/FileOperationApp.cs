@@ -15,7 +15,7 @@ namespace FileOperations
         public void Run()
         {
             var filePath = @"big.txt";
-            var searchTerm = "ebook";
+            var searchTerm = "the";
             ConsoleUI.CreateIntro();
             var result=_service.SearchWord(filePath, searchTerm);
             ConsoleUI.WriteResult(result);
